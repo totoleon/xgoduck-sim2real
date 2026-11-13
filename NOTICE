@@ -1,0 +1,8 @@
+xgoduck-sim2real (weights)
+Copyright 2026 totoleon and contributors
+
+The models in this repository were trained with code derived from LuwuDynamics/xgoduck_rl
+(https://github.com/LuwuDynamics/xgoduck_rl, Apache License 2.0), itself derived from pollen-robotics/microduck_rl
+(https://github.com/pollen-robotics/microduck_rl, Apache License 2.0).
+
+Robot design and original runtime: Luwu Dynamics (XGO-Duck).
